@@ -6,9 +6,7 @@
 
 <h3 align="center">Catalog Executive | Product Listing Specialist | IT Student</h3>
 
-<p align="center">
-  <img src="./myimage.jpeg" width="150" alt="Nityananda Sahoo"/>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nityanandasahoo816-ops&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
