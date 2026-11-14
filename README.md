@@ -2,10 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=200&section=header&text=Welcome%20to%20my%20profile&fontSize=44&fontColor=ffffff&animation=fadeIn" alt="Profile banner" width="100%"/>
 
-<h2 align="center">Hi, I'm [Your Name]</h2>
+<h2 align="center">Hi, I'm NITYANANDA SAHOO</h2>
 
 <p align="center">
-  [Your role or headline, for example: Developer | Learner | Builder]
+  Catalog Executive | Product Listing Specialist | IT Student
 </p>
 
 <p align="center">
@@ -17,11 +17,10 @@
 
 ## About me
 
-- Currently working on: **[your current project]**
-- Currently learning: **[what you are learning]**
-- Ask me about: **[topics you can help with]**
-- Based in: **[your city or country]**
-- Reach me at: **[your email or LinkedIn]**
+- Currently working on: CATALOGUE REMOTE WORK- Currently learning: **[what you are learning]**
+- Ask me about: Product Catalog Management, SKU Creation, Product Listing, Excel, Data Entry, E-commerce Operations, SAP MM, Cloud Computing, DevOps, and IT Career Guidance.
+- Based in: BUBNESWAR,ODISHA,INDIA
+- Reach me at: nityanandasahoo816@gmail.com
 
 ---
 
